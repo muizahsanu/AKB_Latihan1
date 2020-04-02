@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/ic_get_start_timitory"
+        android:contentDescription="@string/str_imgDesc_mainActv"
         app:layout_constraintBottom_toTopOf="@+id/bawah"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -20,7 +21,7 @@
     <TextView
         android:layout_width="280dp"
         android:layout_height="wrap_content"
-        android:text="Monitory Membantu Anda Mengontrol HP Anak"
+        android:text="@string/str_title_mainActv"
         android:fontFamily="@font/nunito_bold"
         android:textSize="22sp"
         android:layout_marginEnd="16dp"
@@ -53,7 +54,7 @@
             android:layout_marginTop="32dp"
             android:layout_marginBottom="32dp"
             android:fontFamily="@font/nunito_bold"
-            android:text="Mulai">
+            android:text="@string/str_txtbutton1_mainActv">
         </Button>
     </LinearLayout>
 
