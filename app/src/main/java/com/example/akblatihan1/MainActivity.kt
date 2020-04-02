@@ -10,7 +10,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        btn_mulai.setOnClickListener(){
+            val intent = Intent(this, DaftarActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 }
