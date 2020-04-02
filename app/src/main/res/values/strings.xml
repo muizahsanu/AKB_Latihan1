@@ -5,4 +5,11 @@
     <string name="str_title_mainActv">Monitori membantu anda mengontrol HP Anak</string>
     <string name="str_txtbutton1_mainActv">Mulai</string>
     <string name="str_imgDesc_mainActv">Background Halaman Utama</string>
+
+    <!--String atau text di Daftar Activity-->
+    <string name="str_title_daftarActv">Kode Keluarga</string>
+    <string name="str_deskripsi_daftarActv">Ketikkan kode keluarga yang Ayah Budan miliki disini</string>
+    <string name="str_policy_daftarActv">Dengan menekan tombol masuk berarti Anda menyetujui
+        <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami
+    </string>
 </resources>
