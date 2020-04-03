@@ -53,6 +53,7 @@
         app:layout_constraintStart_toStartOf="parent">
     </TextView>
     <EditText
+        android:id="@+id/frm_umur"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/str_hintumur_biodataActv"
@@ -70,6 +71,7 @@
         app:layout_constraintStart_toStartOf="parent">
     </EditText>
     <Button
+        android:id="@+id/btn_selanjutnya"
         android:layout_width="240dp"
         android:layout_height="wrap_content"
         android:background="@drawable/button_costum_yellow_1"
