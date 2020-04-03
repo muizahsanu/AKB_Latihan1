@@ -23,4 +23,7 @@
     <string name="str_hintnm_bioadataActv">Contoh : Budi</string>
     <string name="str_hintumur_biodataActv">Contoh : 12</string>
     <string name="str_btn_selanjutnya">Selanjutnya</string>
+
+    <!--String atau text di Berhasil Activity-->
+    <string name="str_btn_ok">Oke</string>
 </resources>

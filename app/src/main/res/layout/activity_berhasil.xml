@@ -26,7 +26,7 @@
         android:layout_width="232dp"
         android:layout_height="wrap_content"
         android:background="@drawable/button_costum_yellow_1"
-        android:text="Oke"
+        android:text="@string/str_btn_ok"
         android:fontFamily="@font/nunito_bold"
         android:textAllCaps="false"
         android:textStyle="bold"
