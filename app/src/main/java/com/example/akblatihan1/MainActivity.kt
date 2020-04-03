@@ -5,7 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 
-/*Nama : Muiz Ahsanu Haqi
+/*Tanggal Pengerjaan: 2 april 2020
+* Nama : Muiz Ahsanu Haqi
 * NIM  : 10117199
 * Kelas: IF-5*/
 
