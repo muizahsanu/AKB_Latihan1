@@ -12,4 +12,7 @@
     <string name="str_policy_daftarActv">Dengan menekan tombol masuk berarti Anda menyetujui
         <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami
     </string>
+    <string name="str_btnMasuk">Masuk</string>
+    <string name="str_beliKode">Belum punya kode keluarga?</string>
+    <string name="str_btnBeliKode">Beli Kode Keluarga Disini</string>
 </resources>
