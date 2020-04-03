@@ -16,4 +16,11 @@
     <string name="str_beliKode">Belum punya kode keluarga?</string>
     <string name="str_btnBeliKode">Beli Kode Keluarga Disini</string>
     <string name="str_hintForm_daftarActv">Kode Keluarga</string>
+
+    <!--String atau text di Biodata Activiy-->
+    <string name="str_nm_biodataActv">Nama Panggilan Kamu</string>
+    <string name="str_umur_biodataActv">Umur Kamu</string>
+    <string name="str_hintnm_bioadataActv">Contoh : Budi</string>
+    <string name="str_hintumur_biodataActv">Contoh : 12</string>
+    <string name="str_btn_selanjutnya">Selanjutnya</string>
 </resources>
