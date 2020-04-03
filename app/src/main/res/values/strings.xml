@@ -2,7 +2,7 @@
     <string name="app_name">Akb Latihan1</string>
 
     <!--String atau text di Main Activity-->
-    <string name="str_title_mainActv">Monitori membantu anda mengontrol HP Anak</string>
+    <string name="str_title_mainActv">Monitory Membantu Anda Mengontrol HP Anak</string>
     <string name="str_txtbutton1_mainActv">Mulai</string>
     <string name="str_imgDesc_mainActv">Background Halaman Utama</string>
 
