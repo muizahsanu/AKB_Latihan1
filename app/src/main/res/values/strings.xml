@@ -15,4 +15,5 @@
     <string name="str_btnMasuk">Masuk</string>
     <string name="str_beliKode">Belum punya kode keluarga?</string>
     <string name="str_btnBeliKode">Beli Kode Keluarga Disini</string>
+    <string name="str_hintForm_daftarActv">Kode Keluarga</string>
 </resources>
